@@ -23,6 +23,7 @@ namespace UEST
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine("adsf");
         }
     }
 }
