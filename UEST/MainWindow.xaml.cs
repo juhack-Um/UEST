@@ -24,6 +24,7 @@ namespace UEST
         {
             InitializeComponent();
             Console.WriteLine("adsf");
+            Console.WriteLine("adsf");
         }
     }
 }
